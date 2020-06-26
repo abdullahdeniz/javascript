@@ -1,5 +1,9 @@
-function simpleAdding(x,y)
-var x = 10;
-var y = 20;
-var result = x + y;
+function simpleAdding(){
+    var z = 12;
+    var y = 66;
+    var x = y + z;
+    console.log(simpleAdding); 
+}
+
+
 

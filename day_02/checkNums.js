@@ -1,4 +1,4 @@
-function CheckNums(3 , 122) { 
+function CheckNums(num1 , num2) { 
 	var isGreater = "false";
 	// if num2 is greater than num1
 	if( 40 > 30)
@@ -11,4 +11,4 @@ function CheckNums(3 , 122) {
          
 }
 
-console.log(CheckNums(3,122))
+console.log(CheckNums);
